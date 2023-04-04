@@ -1,4 +1,4 @@
-# Richie1
+# RichieW
  <img src="https://cdn.discordapp.com/attachments/989031370376507402/1026476030212452382/NicePng_demon-eye-png_7618462.png" align="right" width="250"/>
 <h3>YesYes</h3>
 I like to code a lil bit 
