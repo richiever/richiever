@@ -1,6 +1,6 @@
 # Richiever
  <img src="https://cdn.discordapp.com/attachments/989031370376507402/1026476030212452382/NicePng_demon-eye-png_7618462.png" align="right" width="250"/>
-<h3>Novice reverse engineer, intermediate web developer and decent C++ user </h3>
+<h3>Novice reverse engineer, intermediate web developer and C++ programmer </h3>
 
 <br>
 <br>
