@@ -18,7 +18,7 @@
 
 <h2>Languages/Technologies I am proficent in</h2>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
-   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="100" height="100"/> </a> 
+   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="100" height="100"/> </a> 
   <a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>
  </a> <a href="https://www.w3schools.com/python/" target="_blank">
    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/> </a> 
