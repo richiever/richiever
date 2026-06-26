@@ -5,7 +5,6 @@
 
 <br>
 <br>
-<strong>Discord:</strong> Richie1#4261
 <br>
 <br>
 <strong>Github:</strong><a href="https://github.com/richiever/richiever">Click Here</a>
