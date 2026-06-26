@@ -10,9 +10,7 @@
 <br>
 <strong>Github:</strong><a href="https://github.com/richiever/richiever">Click Here</a>
 <br>
-<br>
-<strong>I have no other social Medias</strong>
-<br>
+<br><br>
 <br>
 
 
