@@ -3,16 +3,6 @@
 <h3>Lead Software Engineer & Co-Founder @ Anthrolytic </h3>
 <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
 
-<br>
-<br>
-<br>
-<br>
-<strong>Github:</strong><a href="https://github.com/richiever/richiever">Click Here</a>
-<br>
-<br><br>
-<br>
-
-
 <h2>Languages/Technologies I am proficent in</h2>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">
    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="100" height="100"/> </a> 
